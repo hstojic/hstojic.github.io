@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "testing syntax highlighting"
+date:   2017-08-25 16:25:28 +0000
+categories: misc
+share: true
+---
+
+blah blah
+
+ha ha `x=2` 
+
+ha ha `R x^2`
+
+```R
+# comment
+install.packages("ruby")
+```
+
+
+```bash
+# comment
+grep 'smth' >> log
+```
