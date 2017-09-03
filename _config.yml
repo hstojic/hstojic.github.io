@@ -24,6 +24,7 @@ github_username:  hstojic
 linkedin_username:  hrvoje-stojic
 encoding: UTF-8
 licence: "http://creativecommons.org/licenses/by/4.0/deed.en_US"
+permalink: /:title
 
 # Disqus Comments
 disqus:
