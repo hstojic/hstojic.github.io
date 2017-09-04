@@ -19,7 +19,7 @@ Here I provide up to date description of teaching activities. Some courses have 
 - **Offerings**: 2016/2017.
 
 
-#### Introduction to Computing
+#### [Introduction to Computing](https://github.com/hstojic/BGSE_IntroToComputing)
 
 - **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), 20 hours.  
 - **Description**: Provides introduction to Unix operating systems and programming in Bash, computing on servers and cloud ([Amazon Web Services](http://aws.amazon.com)), and a thorough overview of programming in R.  
