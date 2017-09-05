@@ -28,9 +28,9 @@ You can find me on a variety of websites, for academic ones check my Research se
 
 ## Bio
 
-I was born and grew up in Croatia. I got my undergraduate degrees, one in Economics and another in Psychology, at the <a href="http://www.unizg.hr/homepage/about-university/">University of Zagreb</a>. After a short career as a market data analyst at <a href="http://www.ipsosadria.com/">IPSOS Adria</a>, I did a PhD in Economics at [Universitat Pompeu Fabra](http://www.upf.edu/) in Barcelona, under supervision of [Robin M. Hogarth](http://www.econ.upf.edu/~hogarth/Robin_M._Hogarth/Home.html). Now I work at [UCL](http://www.fil.ion.ucl.ac.uk/Dolan/) and live in London, centre of reinforcement learning and artificial intelligence research. 
+I was born and grew up in Croatia. I got my undergraduate degrees, one in Economics and another in Psychology, at the <a href="http://www.unizg.hr/homepage/about-university/">University of Zagreb</a>. After a short career as a market data analyst at <a href="http://www.ipsosadria.com/">IPSOS Adria</a>, I did a PhD in Economics at [Universitat Pompeu Fabra](http://www.upf.edu/) in Barcelona, under the supervision of [Robin M. Hogarth](http://www.econ.upf.edu/~hogarth/Robin_M._Hogarth/Home.html). Now I work at [UCL](http://www.fil.ion.ucl.ac.uk/Dolan/) and live in London, centre of reinforcement learning and artificial intelligence research. 
 
 
 ## This site
 
-Source code for the blog can be found at [Github](https://github.com/hstojic/hstojic.github.io). I have used [Jekyll](https://jekyllrb.com) with slighlty modified Minima theme. I am using great fonts developed by Rasmus Anderson - [Interface](https://rsms.me/interface/), and Pandoc flavour of markdown, via [jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) plugin.
+Source code for the blog can be found at [Github](https://github.com/hstojic/hstojic.github.io). I have used [Jekyll](https://jekyllrb.com) with a slightly modified Minima theme. I am using great fonts developed by Rasmus Anderson - [Interface](https://rsms.me/interface/), and Pandoc flavour of markdown, via [jekyll-pandoc](https://github.com/mfenner/jekyll-pandoc) plugin.
