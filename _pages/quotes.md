@@ -7,6 +7,18 @@ order: 4
 ---
 
 
+<!-- What comes first, experiment or the model? They bot co-evolve...
+
+Karl Popper -->
+
+
+> "Data without a theory are like a baby without a parent: their life expectancy is low."
+> 
+> -- G. Gigerenzer, in Surrogates for theories (1998, p.202) 
+  
+Nicely summarizes my approach to science, without a theory (a formal one!), it is hard to make sense of data. Gerd goes further and argues that even amazing experimental work will be forgotten if it is not explained with a strong theory.
+
+
 > "The [MAB] problem was formulated during the war, and efforts to solve it so sapped the energies and minds of Allied scientists that the suggestion was made that the problem be dropped over Germany, as the ultimate instrument of
 intellectual sabotage."
 > 
