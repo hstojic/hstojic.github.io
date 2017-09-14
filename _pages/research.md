@@ -18,7 +18,6 @@ Regarding the code, most of it is in R,  and somewhat less in Python, JavaScript
 
 - [[ORCID]](https://orcid.org/0000-0002-9699-9052): Unique researcher ID
 - [[Google Scholar]](https://scholar.google.co.uk/citations?user=wTjU3isAAAAJ&hl=en): Papers  
-- [[Semantic scholar]](https://www.semanticscholar.org/author/Hrvoje-Stojic/2540641): Also papers, but has an interesting feature with estimating who were the people that influenced my work and whose work I have influenced  
 - [[Publons]](https://publons.com/author/1175768/hrvoje-stojic#profile): Some of my reviews are listed here
 - [[OSF]](https://osf.io/utrga/): I actively use it to make the files related to research projects publicly available (data, code, etc)   
 - [[figshare]](https://figshare.com/authors/Hrvoje_Stojic/635030) - I used to put some of my research output here  
@@ -57,8 +56,10 @@ SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
 nitive Science Society, 2015, pp. 2290–2295. [[pdf]](https://mindmodeling.org/cogsci2015/papers/0394/paper0394.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.1314099)
 
 
-### Theses  
+### Theses & other publications 
 
 - Stojic, H. (2016): Strategy selection and function learning in decision making. PhD thesis, Universitat Pompeu Fabra. 
 
 - Stojic, H., Anreiter, M.R. & Martinez, J.A.C. (2011): An Experimental Test of the Dual Self Model. Unpublished thesis, Master of Science, Universitat Pompeu Fabra. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=lf9hUCMionbXKvOV_KIW0rKAhUZPK6K6JxcX6jbPnDlZA4uW3ukmq1gp5_7dfD0CTR5nb1TK6GeQ83qGmvPnLlYLf5WnaNH0UcBPLHP3oPZ5m6dk20YRwRX7.TbxZXJ6f5kajcB6adyMmO663yTkXPJANB7EV-vXiRQjy5PdThM69bKCTwIzDR_W768jZiSaIE0mF7rLHGLJHTtb5RkvcorsGf7Q6WQ.5SfZfXfJMfGcVf0ZNB9t41YRFZhm58JO2dYyDeGw44f9Iv3A_HfZYMX3lm-beS_hHWKGUnDu_2h9M7bCwyqtq26YDR3nX1tTc7asTw.pCsEXfCSiiikduaYPXjIuP_iR2q9jfwhJKp0fatVUPFrZOCHdu5V3SWnIvVbzb8p5Een-xjpmNxZreusGkkvdPuJgKkJhEsnFdrRHg)
+
+- - Stojic, Hrvoje. "[Re] How learning can guide evolution". ReScience, 3 (1), 2017. DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884) [[pdf]](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) [[code]](https://github.com/hstojic/HintonNowlan1987_replication)
