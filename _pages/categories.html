@@ -1,11 +1,12 @@
 ---
 layout: page
+title: Categories
 hidden: true
 permalink: /categories/
 ---
 
 <div>
-  <h1>Categories</h1>
+  <!-- <h1>Categories</h1> -->
   <div>
     {% for tag in site.categories %}
     <a href="#{{ tag[0] | slugify }}">{{ tag[0] }} | </a>
