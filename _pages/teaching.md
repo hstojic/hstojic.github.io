@@ -3,7 +3,7 @@ layout: page
 title: Teaching
 title_hidden: false
 permalink: /teaching/
-order: 3
+navigation_weight: 3
 ---
 
 

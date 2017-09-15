@@ -3,7 +3,7 @@ layout: page
 title: Quotes
 title_hidden: false
 permalink: /quotes/
-order: 4
+navigation_weight: 4
 ---
 
 

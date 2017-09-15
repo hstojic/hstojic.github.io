@@ -3,7 +3,7 @@ layout: page
 title: About
 title_hidden: true
 permalink: /about/
-order: 1
+navigation_weight: 1
 ---
 
 <img src="/images/portrait.jpg" width="40%" align="right"  hspace="40">
