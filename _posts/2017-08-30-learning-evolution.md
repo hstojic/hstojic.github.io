@@ -2,7 +2,7 @@
 title:  "Replication: How learning can guide evolution"
 date:   2017-08-30 07:25:29 +0000
 categories: Research 
-description: "I replicate a classical article about the interaction between individual and evolutionary learning by Hinton and Nowlan (1987). I largely get the same results, but I do find some relevant differences as well. I have written up a brief article about it and submitted it to the ReScience journal."
+description: "I replicated a classical article about the interaction between individual and evolutionary learning by Hinton and Nowlan (1987). I largely got the same results, but I did find some relevant differences as well. I have written up a brief article about it and submitted it to the ReScience journal."
 tags: [Learning, Evolution]
 ---
 
@@ -37,4 +37,9 @@ I have written up this small exercise as a proper computational replication and 
 
 Repository of the whole replication can be found [here](https://github.com/hstojic/HintonNowlan1987_replication), and the article accompanying it is [here](https://github.com/hstojic/HintonNowlan1987_replication/raw/master/article/stojic2017.pdf).
 
-**Update, Sep 5, 2017**: I ran into a very good discussion on limitations of simulations from Hinton & Nowlan (1987) paper [link](https://web.archive.org/web/20170905095546/https://egtheory.wordpress.com/2014/02/07/learning-guide-evolution/). Very informative read and pointer to a host of useful references.
+**Update, Sep 5, 2017**: I ran into a very good discussion on limitations of simulations from Hinton & Nowlan (1987) paper [[link]](https://web.archive.org/web/20170905095546/https://egtheory.wordpress.com/2014/02/07/learning-guide-evolution/). Very informative read and pointer to a host of useful references.
+
+**Update, Sep 14, 2017**: Replication has just been published at [ReScience](https://rescience.github.io/), and you can even see the whole review process! [[link](https://github.com/ReScience/ReScience-submission/pull/36)]:  
+
+>    Stojic, Hrvoje. "[Re] How learning can guide evolution". ReScience, 3 (1), 2017. DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884)
+
