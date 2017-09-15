@@ -14,15 +14,19 @@
       </span>
 
       <div class="trigger">
-        {% assign sorted_pages = site.pages | sort: 'navigation_weight' %}
+        <!-- {% assign sorted_pages = site.pages | sort: 'navigation_weight' %}
         {% for my_page in sorted_pages %}
           {% if my_page.navigation_weight %}
-          <!-- t: {{ my_page.title }} -->
-              <!-- {% if my_page.title %} -->
+          t: {{ my_page.url }}
+              {% if my_page.title %}
               <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              <!-- {% endif %} -->
+              {% endif %}
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
+        <a class="page-link" href="/about">About</a>
+        <a class="page-link" href="/research">Research</a>
+        <a class="page-link" href="/teaching">Teaching</a>
+        <a class="page-link" href="/quotes">Quotes</a>
       </div>
     </nav>
 
