@@ -42,8 +42,7 @@ Regarding the code, most of it is in R,  and somewhat less in Python, JavaScript
 
 - **Stojic, Hrvoje**, Olsson, Henrik & Speekenbrink, Maarten. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". PsyArXiv. DOI: 10.17605/OSF.IO/FMA3P [[pdf]](https://psyarxiv.com/fma3p/download)
 
-- Vieider, Ferdinand M., Cingl, Lubomir, Martinsson, Peter & **Stojic, Hrvoje**. "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". Discussion Paper, WBZ,
-SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
+- Vieider, Ferdinand M., Cingl, Lubomir, Martinsson, Peter & **Stojic, Hrvoje**. "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". Discussion Paper, WBZ, SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
 
 
 ### Conference proceedings
@@ -58,7 +57,7 @@ nitive Science Society, 2290-2295. [[pdf]](https://mindmodeling.org/cogsci2015/p
 
 ### Theses & other publications 
 
-- **Stojic, Hrvoje** (2016). "Strategy selection and function learning in decision making". PhD thesis, Universitat Pompeu Fabra. 
+- **Stojic, Hrvoje** (2016). "Strategy selection and function learning in decision making". PhD thesis, Universitat Pompeu Fabra. [[pdf]](http://www.tdx.cat/bitstream/handle/10803/400136/ths.pdf?sequence=1&isAllowed=y)
 
 - **Stojic, Hrvoje**, Anreiter, Michael R. & Martinez, Jose A.C. (2011). "An Experimental Test of the Dual Self Model". Unpublished thesis, Master of Science, Universitat Pompeu Fabra. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=lf9hUCMionbXKvOV_KIW0rKAhUZPK6K6JxcX6jbPnDlZA4uW3ukmq1gp5_7dfD0CTR5nb1TK6GeQ83qGmvPnLlYLf5WnaNH0UcBPLHP3oPZ5m6dk20YRwRX7.TbxZXJ6f5kajcB6adyMmO663yTkXPJANB7EV-vXiRQjy5PdThM69bKCTwIzDR_W768jZiSaIE0mF7rLHGLJHTtb5RkvcorsGf7Q6WQ.5SfZfXfJMfGcVf0ZNB9t41YRFZhm58JO2dYyDeGw44f9Iv3A_HfZYMX3lm-beS_hHWKGUnDu_2h9M7bCwyqtq26YDR3nX1tTc7asTw.pCsEXfCSiiikduaYPXjIuP_iR2q9jfwhJKp0fatVUPFrZOCHdu5V3SWnIvVbzb8p5Een-xjpmNxZreusGkkvdPuJgKkJhEsnFdrRHg)
 
