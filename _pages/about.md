@@ -12,9 +12,9 @@ Hello. My name is Hrvoje Stojic.
 
 I'm a reinforcement learning researcher, passionate about modeling agents, primarily human, but also artificial ones. My research focuses on cognitive processes at the intersection of function learning and decision making - essentially, how people learn about the world and use their models of the world to make good decisions. More broadly, I'm interested in strategy selection problem, popularly called deciding how to decide problem, aggregate outcomes and dynamics when many individual agents interact, interaction between individual and evolutionary learning, as well as more technical topics in reinforcement learning, machine learning and artificial intelligence.
 
-I'm currently a Research Associate at the [Max Planck UCL Centre for Computational Psychiatry and Ageing Research](https://www.mps-ucl-centre.mpg.de/en), University College London, and Affiliated Professor at [Barcelona Graduate School of Economics](http://www.barcelonagse.eu/study/masters-programs/data-science), teaching in Master of Data Science program. I also provide AI and data science consultancy services through my company Olivaw.
+I'm currently a Research Associate at the [Max Planck UCL Centre for Computational Psychiatry and Ageing Research](https://www.mps-ucl-centre.mpg.de/en), University College London. I also provide AI and data science consultancy services through my company Olivaw.
 
-This is my personal website. I will primarily use the blog part for keeping notes about my ideas, coding and research, ranting about science, and sharing my excitement with stats and AI. I will be happy if anyone else finds these discussions useful. 
+This is my personal website. I am experimenting with the blog for keeping notes about ideas, research, ranting about science, and sharing my excitement with stats and AI. I will be happy if anyone else finds these discussions useful. 
 
 
 ### Elsewhere

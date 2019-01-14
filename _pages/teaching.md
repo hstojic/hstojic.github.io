@@ -16,7 +16,7 @@ Here I provide up to date description of teaching activities. Some courses have 
 
 - **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), 6 hours, part of Topics in Big Data Analytics II.  
 - **Description**: The objective is to provide introduction to the theory behind the Bayesian optimization and give sufficient amount of know-how to immediately incorporate it into the workflow and substitute less efficient grid-search methods where appropriate.  
-- **Offerings**: 2016/2017.
+- **Offerings**: 2016/2017, 2017/2018.
 
 
 #### [Introduction to Computing](https://github.com/hstojic/BGSE_IntroToComputing)

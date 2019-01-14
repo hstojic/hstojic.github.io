@@ -7,7 +7,7 @@ navigation_weight: 2
 ---
 
 
-My research revolves around human learning and decision making. In particular, I've worked on strategy selection problem, popularly called a "deciding how to decide" problem, and on integrating function learning with decision making. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on methods developed in machine learning. On empirical side, I usually conduct experiments, collecting behavioural (and soon neuroimaging) data to test the predictions and the models. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
+My research revolves around human learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on methods developed in machine learning. On empirical side, I usually conduct experiments, collecting behavioural, eye-tracking and neuroimaging data to test the predictions and the models. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
 
 I'm an open science proponent. Publishing business is intolerable, with companies cheating governments into paying multiple times for the same product, so I aim to publish in open access journals. To contribute to reproducible science I aim to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely by asking authors to publish the code and the data as a reviewer - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I will preregister my studies, to help reducing the rate of false positives that plagues science. 
 
@@ -27,27 +27,36 @@ Regarding the code, most of it is in R,  and somewhat less in Python, JavaScript
 
 ### In preparation
 
-- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, and Moussaid, Mehdi. "The collective dynamics of sequential search". 
+- **Stojic, Hrvoje**, Orquin, Jacob, Dayan, Peter, Dolan, Raymond, & Speekenbrink, Maarten. "Value and uncertainty jointly guide attention in reinforcement learning".
+
+- **Stojic, Hrvoje**, Eldar, Eran, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond. "Are you sure about that? On the origins of confidence in concept learning".
 
 - **Stojic, Hrvoje**, Analytis, Pantelis P., Dayan, Peter & Speekenbrink, Maarten. "Trials-with-fewer-errors: Feature-based learning and exploration". 
 
-- **Stojic, Hrvoje**, Olsson, Henrik & Analytis, Pantelis P. "Heuristic and Linear Models of Judgment: A Cue Weight Learning Perspective". 
+- **Stojic, Hrvoje**, Analytis, Pantelis P., & Olsson, Henrik "Heuristic and Linear Models of Judgment: A Cue Weight Learning Perspective". 
 
-- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten (submitted). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options".
+- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, and Moussaid, Mehdi. "The collective dynamics of sequential search". [[Santa Fe Institute discussion paper, pdf]](http://www.santafe.edu/media/workingpapers/15-06-023.pdf)
+
+- **Stojic, Hrvoje**, Olsson, Henrik & Speekenbrink, Maarten. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)
+
+
+### Under review
+
+- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". (under review) [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev/download)
+
+- Bouchouicha, Ranoua, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?." (under review). [[pdf]](http://www.ferdinandvieider.com/gender_loss_aversion.pdf)
 
 
 ### Preprints
-
-- Analytis, Pantelis P., **Stojic, Hrvoje** & Moussaid, Mehdi. "The collective dynamics of sequential search in markets for cultural products". Santa Fe Institute Working Paper, 15-06-023. [[pdf]](http://www.santafe.edu/media/workingpapers/15-06-023.pdf)
-
-- **Stojic, Hrvoje**, Olsson, Henrik & Speekenbrink, Maarten. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". PsyArXiv. DOI: 10.17605/OSF.IO/FMA3P [[pdf]](https://psyarxiv.com/fma3p/download)
 
 - Vieider, Ferdinand M., Cingl, Lubomir, Martinsson, Peter & **Stojic, Hrvoje**. "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". Discussion Paper, WBZ, SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
 
 
 ### Conference proceedings
 
-- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, & Mehdi Moussaid (2017). “Diversity of preferences can increase collective welfare in sequential exploration problems”. In: Proceedings of the 5th Collective Intelligence Conference. 1-4. [[pdf]](https://osf.io/jt25s/) [[code]](https://osf.io/87m2d/)
+- **Stojic, Hrvoje**, Eldar, Eran, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond (2018). "Are you sure about that? On the origins of confidence in concept learning". In: Proceedings of the Cognitive Computational Neuroscience Conference. 1-4. [[pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197) 
+
+- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, & Mehdi Moussaid (2017). "Diversity of preferences can increase collective welfare in sequential exploration problems". In: Proceedings of the 5th Collective Intelligence Conference. 1-4. [[pdf]](https://osf.io/jt25s/) [[code]](https://osf.io/87m2d/)
 
 - **Stojic, Hrvoje**, Olsson, Henrik and Analytis, Pantelis P. (2016) “Explaining inter-individual variability in strategy selection: A cue weight learning approach”. In: Proceedings of the 14th International Conference on Cognitive Modeling. (Honorable mention at ICCM). University Park, PA: Penn State, pp. 144-150. [[pdf]](http://acs.ist.psu.edu/iccm2016/proceedings/stojic2016iccm.pdf) [[data]](https://dx.doi.org/10.6084/m9.figshare.1609680)
 
