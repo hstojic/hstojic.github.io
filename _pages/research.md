@@ -7,11 +7,9 @@ navigation_weight: 2
 ---
 
 
-My research revolves around human learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on methods developed in machine learning. On empirical side, I usually conduct experiments, collecting behavioural, eye-tracking and neuroimaging data to test the predictions and the models. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
+My research revolves around human learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on methods developed in machine learning. On empirical side, I usually conduct experiments, collecting behavioural data to test the predictions and the models, often leveraging online labour markets like Amazon's Mechanical Turk. Since recently, I have also started collecting eye-tracking and neuroimaging data alongside the behavioral data. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
 
-I'm an open science proponent. Publishing business is intolerable, with companies cheating governments into paying multiple times for the same product, so I aim to publish in open access journals. To contribute to reproducible science I aim to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely by asking authors to publish the code and the data as a reviewer - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I will preregister my studies, to help reducing the rate of false positives that plagues science. 
-
-Regarding the code, most of it is in R,  and somewhat less in Python, JavaScript, and Bourne shell. Sometimes you will find scripts in C++ and Matlab.
+I'm an open science proponent. To contribute to reproducible science I strive to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I preregister my studies, to help reducing the rate of false positives that plagues science. 
 
 
 ### Academic profiles 
@@ -19,8 +17,7 @@ Regarding the code, most of it is in R,  and somewhat less in Python, JavaScript
 - [[ORCID]](https://orcid.org/0000-0002-9699-9052): Unique researcher ID
 - [[Google Scholar]](https://scholar.google.co.uk/citations?user=wTjU3isAAAAJ&hl=en): Papers  
 - [[Publons]](https://publons.com/author/1175768/hrvoje-stojic#profile): Some of my reviews are listed here
-- [[OSF]](https://osf.io/utrga/): I actively use it to make the files related to research projects publicly available (data, code, etc)   
-- [[figshare]](https://figshare.com/authors/Hrvoje_Stojic/635030) - I used to put some of my research output here  
+- [[OSF]](https://osf.io/utrga/): I use it to make the files related to research projects publicly available (data, code, etc)   
 
 
 ## Papers
@@ -29,27 +26,24 @@ Regarding the code, most of it is in R,  and somewhat less in Python, JavaScript
 
 - **Stojic, Hrvoje**, Orquin, Jacob, Dayan, Peter, Dolan, Raymond, & Speekenbrink, Maarten. "Value and uncertainty jointly guide attention in reinforcement learning".
 
-- **Stojic, Hrvoje**, Eldar, Eran, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond. "Are you sure about that? On the origins of confidence in concept learning".
+- **Stojic, Hrvoje**, Eldar, Eran, Wimmer, Elliott, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond. "Are you sure about that? On the origins of confidence in concept learning". [[conference proceedings, pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197)
 
 - **Stojic, Hrvoje**, Analytis, Pantelis P., Dayan, Peter & Speekenbrink, Maarten. "Trials-with-fewer-errors: Feature-based learning and exploration". 
 
-- **Stojic, Hrvoje**, Analytis, Pantelis P., & Olsson, Henrik "Heuristic and Linear Models of Judgment: A Cue Weight Learning Perspective". 
+- **Stojic, Hrvoje**, Olsson, Henrik & Speekenbrink, Maarten. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)
 
 - Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, and Moussaid, Mehdi. "The collective dynamics of sequential search". [[Santa Fe Institute discussion paper, pdf]](http://www.santafe.edu/media/workingpapers/15-06-023.pdf)
 
-- **Stojic, Hrvoje**, Olsson, Henrik & Speekenbrink, Maarten. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)
+- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, and Moussaid, Mehdi. "Diversity of preferences can increase collective welfare in sequential exploration problems". [[conference proceedings, pdf]](https://osf.io/jt25s/)
 
 
 ### Under review
 
-- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". (under review) [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev/download)
+- **Stojic, Hrvoje**, Analytis, Pantelis P., & Olsson, Henrik "Linear Integration vs. Lexicographic Heuristics: A Cue Weight Learning Perspective". 
 
-- Bouchouicha, Ranoua, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?." (under review). [[pdf]](http://www.ferdinandvieider.com/gender_loss_aversion.pdf)
+- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev/download)
 
-
-### Preprints
-
-- Vieider, Ferdinand M., Cingl, Lubomir, Martinsson, Peter & **Stojic, Hrvoje**. "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". Discussion Paper, WBZ, SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
+- Bouchouicha, Ranoua, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?.". [[pdf]](http://www.ferdinandvieider.com/gender_loss_aversion.pdf)
 
 
 ### Conference proceedings
@@ -66,8 +60,10 @@ nitive Science Society, 2290-2295. [[pdf]](https://mindmodeling.org/cogsci2015/p
 
 ### Theses & other publications 
 
+- **Stojic, Hrvoje** (2017). "[Re] How learning can guide evolution". ReScience, 3 (1). DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884) [[pdf]](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) [[code]](https://github.com/hstojic/HintonNowlan1987_replication)
+
 - **Stojic, Hrvoje** (2016). "Strategy selection and function learning in decision making". PhD thesis, Universitat Pompeu Fabra. [[pdf]](http://www.tdx.cat/bitstream/handle/10803/400136/ths.pdf?sequence=1&isAllowed=y)
 
-- **Stojic, Hrvoje**, Anreiter, Michael R. & Martinez, Jose A.C. (2011). "An Experimental Test of the Dual Self Model". Unpublished thesis, Master of Science, Universitat Pompeu Fabra. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=lf9hUCMionbXKvOV_KIW0rKAhUZPK6K6JxcX6jbPnDlZA4uW3ukmq1gp5_7dfD0CTR5nb1TK6GeQ83qGmvPnLlYLf5WnaNH0UcBPLHP3oPZ5m6dk20YRwRX7.TbxZXJ6f5kajcB6adyMmO663yTkXPJANB7EV-vXiRQjy5PdThM69bKCTwIzDR_W768jZiSaIE0mF7rLHGLJHTtb5RkvcorsGf7Q6WQ.5SfZfXfJMfGcVf0ZNB9t41YRFZhm58JO2dYyDeGw44f9Iv3A_HfZYMX3lm-beS_hHWKGUnDu_2h9M7bCwyqtq26YDR3nX1tTc7asTw.pCsEXfCSiiikduaYPXjIuP_iR2q9jfwhJKp0fatVUPFrZOCHdu5V3SWnIvVbzb8p5Een-xjpmNxZreusGkkvdPuJgKkJhEsnFdrRHg)
+- Vieider, Ferdinand M., Cingl, Lubomir, Martinsson, Peter & **Stojic, Hrvoje**. "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". Discussion Paper, WBZ, SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
 
-- **Stojic, Hrvoje** (2017). "[Re] How learning can guide evolution". ReScience, 3 (1). DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884) [[pdf]](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) [[code]](https://github.com/hstojic/HintonNowlan1987_replication)
+- **Stojic, Hrvoje**, Anreiter, Michael R. & Martinez, Jose A.C. (2011). "An Experimental Test of the Dual Self Model". Unpublished thesis, Master of Science, Universitat Pompeu Fabra. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=lf9hUCMionbXKvOV_KIW0rKAhUZPK6K6JxcX6jbPnDlZA4uW3ukmq1gp5_7dfD0CTR5nb1TK6GeQ83qGmvPnLlYLf5WnaNH0UcBPLHP3oPZ5m6dk20YRwRX7.TbxZXJ6f5kajcB6adyMmO663yTkXPJANB7EV-vXiRQjy5PdThM69bKCTwIzDR_W768jZiSaIE0mF7rLHGLJHTtb5RkvcorsGf7Q6WQ.5SfZfXfJMfGcVf0ZNB9t41YRFZhm58JO2dYyDeGw44f9Iv3A_HfZYMX3lm-beS_hHWKGUnDu_2h9M7bCwyqtq26YDR3nX1tTc7asTw.pCsEXfCSiiikduaYPXjIuP_iR2q9jfwhJKp0fatVUPFrZOCHdu5V3SWnIvVbzb8p5Een-xjpmNxZreusGkkvdPuJgKkJhEsnFdrRHg)
