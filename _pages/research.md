@@ -24,7 +24,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### In preparation
 
-- **Stojic, Hrvoje**, Orquin, Jacob, Dayan, Peter, Dolan, Raymond, & Speekenbrink, Maarten. "Value and uncertainty jointly guide attention in reinforcement learning".
+- **Stojic, Hrvoje**, Orquin, Jacob, Dayan, Peter, Dolan, Raymond, & Speekenbrink, Maarten. "Role of uncertainty in learning and choices through the lens of attentio".
 
 - **Stojic, Hrvoje**, Eldar, Eran, Wimmer, Elliott, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond. "Are you sure about that? On the origins of confidence in concept learning". [[conference proceedings, pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197)
 
@@ -39,11 +39,11 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Under review
 
-- **Stojic, Hrvoje**, Analytis, Pantelis P., & Olsson, Henrik "Linear Integration vs. Lexicographic Heuristics: A Cue Weight Learning Perspective". 
+- **Stojic, Hrvoje**, Olsson, Henrik, & Analytis, Pantelis P. "Linear integration vs. lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)
 
-- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev/download)
+- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev)
 
-- Bouchouicha, Ranoua, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?.". [[pdf]](http://www.ferdinandvieider.com/gender_loss_aversion.pdf)
+- Bouchouicha, Ranoua, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?". [[pdf]](http://www.ferdinandvieider.com/gender_loss_aversion.pdf)
 
 
 ### Conference proceedings
