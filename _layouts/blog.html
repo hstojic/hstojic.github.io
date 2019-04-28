@@ -1,12 +1,14 @@
 ---
 layout: default
-permalink: /blog/
-navigation_weight: 4
 ---
 
 <div class="home">
 
-  <!-- <h1 class="page-heading">Notes</h1> -->
+  <header class="post-header">
+    {% unless page.title_hidden %}
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    {% endunless %}
+  </header>
   
   {{ content }}
 

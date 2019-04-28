@@ -3,7 +3,7 @@ layout: page
 title: Research
 title_hidden: false
 permalink: /research/
-navigation_weight: 2
+navigation_weight: 1
 ---
 
 
