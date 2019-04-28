@@ -1,8 +1,8 @@
 ---
-layout: page
+layout: home
 title: About
 title_hidden: true
-permalink: /about/
+permalink: /
 navigation_weight: 1
 ---
 

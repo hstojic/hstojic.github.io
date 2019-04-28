@@ -1,0 +1,36 @@
+---
+layout: default
+permalink: /blog/
+navigation_weight: 4
+---
+
+<div class="home">
+
+  <!-- <h1 class="page-heading">Notes</h1> -->
+  
+  {{ content }}
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        <!-- <div style="float: left; width: 50%;">
+        <img height = "" src="/res/Figure2.svg">
+        </div>
+        <div style="float: right; width: 50%;">
+         -->
+        {% if post.description %}
+        {{ post.description | escape }}
+        {% endif %}
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <!-- </div> -->
+      </li>
+      <!-- </br> -->
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>
