@@ -26,7 +26,14 @@ intellectual sabotage."
   
 Bandit problem, looking deceivingly simple -- my favourite puzzle and an entry point to the world of exploitation and exploration. These days I see them everywhere.
 
-   
+
+> "The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds."
+>
+> -- John Maynard Keynes (1935), The General Theory of Employment, Interest and Money
+
+Aaaand, it's a trap. I wonder if I will be able to unsee bandit problems when needed!
+
+
 > "What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention, and a need to allocate that attention efficiently among the overabundance of information sources that might consume it."
 > 
 > -- Herbert Simon (according to Hal Varian, Scientific American, 1995)
