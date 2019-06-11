@@ -22,48 +22,57 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ## Papers
 
-### In preparation
-
-- **Stojic, Hrvoje**, Orquin, Jacob, Dayan, Peter, Dolan, Raymond, & Speekenbrink, Maarten. "Role of uncertainty in learning and choices through the lens of attentio".
-
-- **Stojic, Hrvoje**, Eldar, Eran, Wimmer, Elliott, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond. "Are you sure about that? On the origins of confidence in concept learning". [[conference proceedings, pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197)
-
-- **Stojic, Hrvoje**, Analytis, Pantelis P., Dayan, Peter & Speekenbrink, Maarten. "Trials-with-fewer-errors: Feature-based learning and exploration". 
-
-- **Stojic, Hrvoje**, Olsson, Henrik & Speekenbrink, Maarten. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)
-
-- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, and Moussaid, Mehdi. "The collective dynamics of sequential search". [[Santa Fe Institute discussion paper, pdf]](http://www.santafe.edu/media/workingpapers/15-06-023.pdf)
-
-- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, and Moussaid, Mehdi. "Diversity of preferences can increase collective welfare in sequential exploration problems". [[conference proceedings, pdf]](https://osf.io/jt25s/)
-
-
 ### Under review
 
-- **Stojic, Hrvoje**, Olsson, Henrik, & Analytis, Pantelis P. "Linear integration vs. lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)
+- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev)  
 
-- **Stojic, Hrvoje**, Schulz, Eric, Analytis, Pantelis P., & Speekenbrink, Maarten. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev)
+- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink. "Role of uncertainty in learning and choice through the lens of visual fixations". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
-- Bouchouicha, Ranoua, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?". [[pdf]](http://www.ferdinandvieider.com/gender_loss_aversion.pdf)
+- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration vs. lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
-
-### Conference proceedings
-
-- **Stojic, Hrvoje**, Eldar, Eran, Bassam, Hassan, Dayan, Peter, & Dolan, Raymond (2018). "Are you sure about that? On the origins of confidence in concept learning". In: Proceedings of the Cognitive Computational Neuroscience Conference. 1-4. [[pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197) 
-
-- Analytis, Pantelis P., **Stojic, Hrvoje**, Gelastopoulos, Alexandros, & Mehdi Moussaid (2017). "Diversity of preferences can increase collective welfare in sequential exploration problems". In: Proceedings of the 5th Collective Intelligence Conference. 1-4. [[pdf]](https://osf.io/jt25s/) [[code]](https://osf.io/87m2d/)
-
-- **Stojic, Hrvoje**, Olsson, Henrik and Analytis, Pantelis P. (2016) “Explaining inter-individual variability in strategy selection: A cue weight learning approach”. In: Proceedings of the 14th International Conference on Cognitive Modeling. (Honorable mention at ICCM). University Park, PA: Penn State, pp. 144-150. [[pdf]](http://acs.ist.psu.edu/iccm2016/proceedings/stojic2016iccm.pdf) [[data]](https://dx.doi.org/10.6084/m9.figshare.1609680)
-
-- **Stojic, Hrvoje**, Analytis, Pantelis P. & Speekenbrink, Maarten (2015). "Human behavior in contextual multi-armed bandit problems". In: Proceedings of the 37th Annual Conference of the Cognitive Science Society. Austin, TX, US: Cog-
-nitive Science Society, 2290-2295. [[pdf]](https://mindmodeling.org/cogsci2015/papers/0394/paper0394.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.1314099)
+- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?". [[pdf]](https://docs.wixstatic.com/ugd/f91c11_83021bddd7334f519eff84ad1ee5302a.pdf)
 
 
-### Theses & other publications 
+### 2013 - 2018
 
-- **Stojic, Hrvoje** (2017). "[Re] How learning can guide evolution". ReScience, 3 (1). DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884) [[pdf]](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) [[code]](https://github.com/hstojic/HintonNowlan1987_replication)
+- **Hrvoje Stojic**, Eran Eldar, Hassan Bassam, Peter Dayan, & Raymond Dolan (2018). "Are you sure about that? On the origins of confidence in concept learning". In: Proceedings of the Cognitive Computational Neuroscience Conference. 1-4. [[pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197) 
 
-- **Stojic, Hrvoje** (2016). "Strategy selection and function learning in decision making". PhD thesis, Universitat Pompeu Fabra. [[pdf]](http://www.tdx.cat/bitstream/handle/10803/400136/ths.pdf?sequence=1&isAllowed=y)
+- Pantelis P. Analytis, **Hrvoje Stojic**, Alexandros Gelastopoulos, & Mehdi Moussaid (2017). "Diversity of preferences can increase collective welfare in sequential exploration problems". In: Proceedings of the 5th Collective Intelligence Conference. 1-4. [[pdf]](https://osf.io/jt25s/) [[code]](https://osf.io/87m2d/)
 
-- Vieider, Ferdinand M., Cingl, Lubomir, Martinsson, Peter & **Stojic, Hrvoje**. "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". Discussion Paper, WBZ, SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
+- **Hrvoje Stojic** (2017). "[Re] How learning can guide evolution". ReScience, 3 (1). DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884) [[pdf]](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) [[code]](https://github.com/hstojic/HintonNowlan1987_replication)
 
-- **Stojic, Hrvoje**, Anreiter, Michael R. & Martinez, Jose A.C. (2011). "An Experimental Test of the Dual Self Model". Unpublished thesis, Master of Science, Universitat Pompeu Fabra. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf?origin=publication_detail&ev=pub_int_prw_xdl&msrp=lf9hUCMionbXKvOV_KIW0rKAhUZPK6K6JxcX6jbPnDlZA4uW3ukmq1gp5_7dfD0CTR5nb1TK6GeQ83qGmvPnLlYLf5WnaNH0UcBPLHP3oPZ5m6dk20YRwRX7.TbxZXJ6f5kajcB6adyMmO663yTkXPJANB7EV-vXiRQjy5PdThM69bKCTwIzDR_W768jZiSaIE0mF7rLHGLJHTtb5RkvcorsGf7Q6WQ.5SfZfXfJMfGcVf0ZNB9t41YRFZhm58JO2dYyDeGw44f9Iv3A_HfZYMX3lm-beS_hHWKGUnDu_2h9M7bCwyqtq26YDR3nX1tTc7asTw.pCsEXfCSiiikduaYPXjIuP_iR2q9jfwhJKp0fatVUPFrZOCHdu5V3SWnIvVbzb8p5Een-xjpmNxZreusGkkvdPuJgKkJhEsnFdrRHg)
+- **Hrvoje Stojic**, Henrik Olsson & Maarten Speekenbrink (2016). "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)  
+
+- **Hrvoje Stojic**, Henrik Olsson and Pantelis P. Analytis (2016) “Explaining inter-individual variability in strategy selection: A cue weight learning approach”. In: Proceedings of the 14th International Conference on Cognitive Modeling. (Honorable mention at ICCM). University Park, PA: Penn State, pp. 144-150. [[pdf]](http://acs.ist.psu.edu/iccm2016/proceedings/stojic2016iccm.pdf) [[data]](https://dx.doi.org/10.6084/m9.figshare.1609680)
+
+- **Hrvoje Stojic**, Pantelis P. Analytis & Maarten Speekenbrink (2015). "Human behavior in contextual multi-armed bandit problems". In: Proceedings of the 37th Annual Conference of the Cognitive Science Society. Austin, TX, US: Cognitive Science Society, 2290-2295. [[pdf]](https://mindmodeling.org/cogsci2015/papers/0394/paper0394.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.1314099)
+
+- Pantelis P. Analytis, **Hrvoje Stojic**, Alexandros Gelastopoulos, and Mehdi Moussaid (2015). "The collective dynamics of sequential search in markets for cultural products". Santa Fe Institute Discussion Paper, 15-06-023. [[pdf]](http://www.santafe.edu/media/workingpapers/15-06-023.pdf) 
+
+- Ferdinand M. Vieider, Lubomir Cingl, Peter Martinsson & **Hrvoje Stojic** (2013). "Separating attitudes towards money from attitudes towards probabilities: Stake effects and ambiguity as a test for prospect theory". WBZ Discussion Paper, SP II 2013–401. [[pdf]](http://hdl.handle.net/10419/83653)
+
+
+### Theses  
+
+- **Hrvoje Stojic** (2017). "Strategy selection and function learning in decision making". Published PhD thesis, Universitat Pompeu Fabra. [[pdf]](http://www.tdx.cat/bitstream/handle/10803/400136/ths.pdf?sequence=1&isAllowed=y)
+
+- **Hrvoje Stojic**, Michael R. Anreiter & Jose A.C. Martinez (2011). "An Experimental Test of the Dual Self Model". Unpublished MSc thesis, Barcelona Graduate School of Economics. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf)
+
+
+### Work in progress
+
+- **Hrvoje Stojic**, Pantelis P. Analytis, Peter Dayan & Maarten Speekenbrink. "Trials-with-fewer-errors: Feature-based learning and exploration". 
+
+- Pantelis P. Analytis, **Hrvoje Stojic**, Alexandros Gelastopoulos, and Mehdi Moussaid. "The collective dynamics of sequential search". 
+
+- Pantelis P. Analytis, **Hrvoje Stojic**, Alexandros Gelastopoulos, and Mehdi Moussaid. "Diversity of preferences can increase collective welfare in sequential exploration problems". 
+
+- **Hrvoje Stojic**, Henrik Olsson & Maarten Speekenbrink. "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". 
+
+- **Hrvoje Stojic**, Eran Eldar, Elliott Wimmer, Hassan Bassam, Peter Dayan, & Raymond Dolan. "Are you sure about that? On the origins of confidence in concept learning". 
+
+- **Hrvoje Stojic**, Elliott Wimmer, Hassan Bassam, Peter Dayan, & Raymond Dolan. "Probabilistic maps of functional knowledge in the human hippocampal-entorhinal cortex". 
+
+- **Hrvoje Stojic**, Eran Eldar, Clelia Cornet, Peter Dayan, & Raymond Dolan. "Learning reward functions: multiple strategies for tackling multidimensional environments". 
+
+- Hassan Bassam, **Hrvoje Stojic**, Elliott Wimmer, & Raymond Dolan. "Effects of feedback delay on learning functions". 

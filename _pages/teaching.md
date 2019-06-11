@@ -10,7 +10,7 @@ navigation_weight: 2
 Here I provide up to date description of teaching activities. Some courses have Github repositories where handouts, problem sets and other resources are available. Let me know if you have any questions or comments regarding the materials. 
 
 
-### Lecturer (2015-)
+### Lecturer (2015-2018)
 
 #### [Bayesian Optimization](https://github.com/hstojic/BGSE_BayesOptim)
 
@@ -42,10 +42,10 @@ Here I provide up to date description of teaching activities. Some courses have 
 
 ### Teaching Assistant (2011-2016)
 
-- **Machine Learning**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), prof. [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/); Nominated for the best teaching assistant award in the Department of Economics and Business; 15 hours, 2015.  
-- **Computational statistics with R**: Universitat Pompeu Fabra, Econ undergraduate, prof. Albert Satorra; 20 hours; 2016.
-- **Econometrics 1**: Universitat Pompeu Fabra, Econ undergraduate, prof. Christian Fons Rosen; 30 hours; 2015.
+- **Machine Learning**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), prof. [Gabor Lugosi](http://www.econ.upf.edu/~lugosi/); Nominated for the best teaching assistant award in the Department of Economics and Business; 15 hours, 2014/2015.  
+- **Computational statistics with R**: Universitat Pompeu Fabra, Econ undergraduate, prof. Albert Satorra; 20 hours; 2015/2016.
+- **Econometrics 1**: Universitat Pompeu Fabra, Econ undergraduate, prof. Christian Fons Rosen; 30 hours; 2014/2015.
 - **Social psychology in Organizations**: Universitat Pompeu Fabra, Econ undergraduate, prof. [Gael Le Mens](http://www.econ.upf.edu/~glemens/); ~80 hours; 2012/2013/2014.
 - **Microeconomics 1**: Universitat Pompeu Fabra, Econ undergraduate, prof. [Helena Perrone](https://sites.google.com/site/helenaperrone2); 20 hours; 2012.
-- **Introduction to Game theory**: Universitat Pompeu Fabra, Econ undergraduate, prof. [Helena Perrone](https://sites.google.com/site/helenaperrone2); 30 hours; 2012.
-- **Introduction to Microeconomics** : Universitat Pompeu Fabra, Econ undergraduate, prof. [Rosemarie Nagel](http://www.econ.upf.es/~nagel/); 30 hours; 2011.
+- **Introduction to Game theory**: Universitat Pompeu Fabra, Econ undergraduate, prof. [Helena Perrone](https://sites.google.com/site/helenaperrone2); 30 hours; 2011/2012.
+- **Introduction to Microeconomics** : Universitat Pompeu Fabra, Econ undergraduate, prof. [Rosemarie Nagel](http://www.econ.upf.es/~nagel/); 30 hours; 2011/2012.
