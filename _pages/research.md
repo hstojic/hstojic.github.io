@@ -26,7 +26,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev)  
 
-- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink. "Role of uncertainty in learning and choice through the lens of visual fixations". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
+- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink. "Uncertainty in learning, choice and visual fixation". 
 
 - **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration vs. lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
