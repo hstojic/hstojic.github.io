@@ -10,7 +10,7 @@ navigation_weight: 2
 Here I provide up to date description of teaching activities. Some courses have Github repositories where handouts, problem sets and other resources are available. Let me know if you have any questions or comments regarding the materials. 
 
 
-### Lecturer (2015-2018)
+### Lecturer (2015-Present)
 
 #### [Bayesian Optimization](https://github.com/hstojic/BGSE_BayesOptim)
 
@@ -33,7 +33,7 @@ Here I provide up to date description of teaching activities. Some courses have 
 - **Offerings**: Summer 2016.
 
 
-#### Advanced Computational Methods
+#### Computational Machine Learning
 
 - **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), 20 hours.  
 - **Description**: The course covers the practical side of classification machine learning algorithms, focusing on selected few and programming them from scratch. It stresses various computational aspects of the implementation – from running computations in parallel to distributed computing with tools such as Spark. A classification competition on [Kaggle in Class](https://inclass.kaggle.com) serves as a practice ground.  
