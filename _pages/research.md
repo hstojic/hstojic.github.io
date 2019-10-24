@@ -7,7 +7,7 @@ navigation_weight: 1
 ---
 
 
-My research focuses on learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on machine learning methods. On empirical side, I usually conduct behavioural and computational experiments, often collecting behavioural data to test the predictions and the models, usually leveraging online labour markets like Amazon's Mechanical Turk. Since recently, I have also started collecting eye-tracking and neuroimaging data alongside the behavioral data. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
+My research focuses on learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on machine learning methods. On empirical side, I usually conduct computational experiments, often collecting behavioural data to test the predictions and the models, usually by leveraging online labour markets like Amazon's Mechanical Turk. Since recently, I have also started collecting eye-tracking and neuroimaging data alongside the behavioral data. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
 
 I'm an open science proponent. To contribute to reproducible science I strive to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I preregister my studies, to help reducing the rate of false positives that plagues science. 
 
@@ -22,21 +22,22 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ## Papers
 
-### Revision & review
+### Revision & Review
 
 - **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev)  
 
 - **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink. "Uncertainty in learning, choice and visual fixation". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/zuge2)  
 
-- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration vs. lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
+- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration and lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
-- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti, and Ferdinand M. Vieider. "Gender Effects for Loss Aversion: Yes, No, Maybe?". [[pdf]](https://docs.wixstatic.com/ugd/f91c11_83021bddd7334f519eff84ad1ee5302a.pdf)
+- Oscar Esteban et al. "Analysis of task-based functional MRI data preprocessed with fMRIPrep". [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)
 
-<!-- Analysis of task-based functional MRI data preprocessed with fMRIPrep
-Oscar Esteban1, Rastko Ciric1, Karolina Finc2, Ross Blair1, Christopher J. Markiewicz1, Craig A. Moodie1, James D. Kent5, Mathias Goncalves6, Elizabeth DuPre7, Daniel E. P. Gomez9, Zhifang Ye11, Taylor Salo12, Romain Valabregue13, Inge K. Amlien19, Franziskus Liem15, Nir Jacoby16, Hrvoje Stojić17, Matthew Cieslak20, Sebastian Urchs7, Yaroslav O. Halchenko18, Satrajit S. Ghosh6,8, Alejandro De La Vega21, Tal Yarkoni21, Jessey Wright1, William H. Thompson1, Russell A. Poldrack1, and Krzysztof J. Gorgolewski1
- -->
 
-### 2013 - 2018
+### 2013 - present
+
+- Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer dynamics". *arXiv*, 1910.01066. [[pdf]](https://arxiv.org/abs/1910.01066) 
+
+- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (3). [[pdf]](https://docs.wixstatic.com/ugd/f91c11_83021bddd7334f519eff84ad1ee5302a.pdf)
 
 - **Hrvoje Stojic**, Eran Eldar, Hassan Bassam, Peter Dayan, & Raymond Dolan (2018). "Are you sure about that? On the origins of confidence in concept learning". In: Proceedings of the Cognitive Computational Neuroscience Conference. 1-4. [[pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197) 
 
@@ -70,8 +71,6 @@ Oscar Esteban1, Rastko Ciric1, Karolina Finc2, Ross Blair1, Christopher J. Marki
 - **Hrvoje Stojic**, Pantelis P. Analytis, Peter Dayan & Maarten Speekenbrink. "Trials-with-fewer-errors: Feature-based learning and exploration". 
 
 - **Hrvoje Stojic**, Elliott Wimmer, Hassan Bassam, Peter Dayan, & Raymond Dolan. "Probabilistic maps of functional knowledge in the human hippocampal-entorhinal cortex". 
-
-- Pantelis P. Analytis, Alexandros Gelastopoulos, and **Hrvoje Stojic**. "Ranking-based rich-get-richer dynamics". 
 
 - Pantelis P. Analytis, **Hrvoje Stojic**, Alexandros Gelastopoulos, and Mehdi Moussaid. "The collective dynamics of sequential search". 
 

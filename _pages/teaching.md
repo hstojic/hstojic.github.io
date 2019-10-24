@@ -12,6 +12,13 @@ Here I provide up to date description of teaching activities. Some courses have 
 
 ### Lecturer (2015-Present)
 
+#### Stochastic Models and Optimization
+
+- **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), jointly with [Gergely Neu](https://www.barcelonagse.eu/people/neu-gergely).  
+- **Description**: Not available yet.  
+- **Offerings**: Coming up in 2019/2020.
+
+
 #### [Bayesian Optimization](https://github.com/hstojic/BGSE_BayesOptim)
 
 - **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), 6 hours, part of Topics in Big Data Analytics II.  
