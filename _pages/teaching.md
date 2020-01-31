@@ -16,7 +16,7 @@ Here I provide up to date description of teaching activities. Some courses have 
 
 - **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), jointly with [Gergely Neu](https://www.barcelonagse.eu/people/neu-gergely).  
 - **Description**: Not available yet.  
-- **Offerings**: Coming up in 2019/2020.
+- **Offerings**: 2019/2020.
 
 
 #### [Bayesian Optimization](https://github.com/hstojic/BGSE_BayesOptim)

@@ -22,11 +22,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ## Papers
 
-### Revision & Review
-
-- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink. "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/p6zev)  
-
-- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink. "Uncertainty in learning, choice and visual fixation". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/zuge2)  
+### Review & Revision
 
 - **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration and lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
@@ -35,9 +31,13 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### 2013 - present
 
-- Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer dynamics". *arXiv*, 1910.01066. [[pdf]](https://arxiv.org/abs/1910.01066) 
+- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink (in press). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". *Journal of Experimental Psychology: General* [[PsyArXiv preprint]](https://psyarxiv.com/p6zev)  [[data & code]](https://doi.org/10.17605/osf.io/c8u9t)  
 
-- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (3). [[pdf]](https://docs.wixstatic.com/ugd/f91c11_83021bddd7334f519eff84ad1ee5302a.pdf)
+- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink (2020). "Uncertainty in learning, choice and visual fixation". *Proceedings of the National Academy of Sciences* [[publisher]](https://doi.org/10.1073/pnas.1911348117) [[PsyArXiv preprint]](https://psyarxiv.com/zuge2) [[data & code]](https://doi.org/10.17605/osf.io/539ps)  
+
+- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (2), 171-184. [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11166-019-09315-3.pdf)
+
+- Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer dynamics". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
 - **Hrvoje Stojic**, Eran Eldar, Hassan Bassam, Peter Dayan, & Raymond Dolan (2018). "Are you sure about that? On the origins of confidence in concept learning". In: Proceedings of the Cognitive Computational Neuroscience Conference. 1-4. [[pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197) 
 
