@@ -11,6 +11,12 @@ navigation_weight: 4
 
 Karl Popper -->
 
+> "Computers are useless. They provide only answers."
+> 
+> -- Pablo Picasso 
+  
+I picked this up in Garry Kasparov's recent book "Deep Thinking". Well, Pablo's statement is actually quite deep, how can computer assess what questions are important to ask? 
+
 
 > "Data without a theory are like a baby without a parent: their life expectancy is low."
 > 
