@@ -19,6 +19,7 @@ description: > # this means to ignore newlines until "baseurl:"
   I am a researcher at University College London, studying human learning and decision making. This is my personal website where I keep notes, discuss my research and science at large. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hstojic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: hstojic.github.io
 twitter_username: HrvojeStojic
 github_username:  hstojic
 linkedin_username:  hrvoje-stojic
