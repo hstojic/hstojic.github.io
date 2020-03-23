@@ -24,20 +24,21 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Review & Revision
 
-- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration and lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
-- Oscar Esteban et al. "Analysis of task-based functional MRI data preprocessed with fMRIPrep". [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)
+- Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
+
+- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis "Linear integration and lexicographic models of choice: A cue weight learning perspective". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/yj2zc)  
 
 
 ### 2013 - present
 
-- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink (in press). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". *Journal of Experimental Psychology: General* [[PsyArXiv preprint]](https://psyarxiv.com/p6zev)  [[data & code]](https://doi.org/10.17605/osf.io/c8u9t)  
+- Oscar Esteban et al. (in press) "Analysis of task-based functional MRI data preprocessed with fMRIPrep". *Nature Protocols* [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)
 
-- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink (2020). "Uncertainty in learning, choice and visual fixation". *Proceedings of the National Academy of Sciences* [[publisher]](https://doi.org/10.1073/pnas.1911348117) [[PsyArXiv preprint]](https://psyarxiv.com/zuge2) [[data & code]](https://doi.org/10.17605/osf.io/539ps)  
+- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink (2020). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". *Journal of Experimental Psychology: General* [[DOI: 10.1037/xge0000749]](http://dx.doi.org/10.1037/xge0000749) [[PsyArXiv preprint]](https://psyarxiv.com/p6zev)  [[data & code]](https://doi.org/10.17605/osf.io/c8u9t)  
 
-- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (2), 171-184. [[pdf]](https://link.springer.com/content/pdf/10.1007%2Fs11166-019-09315-3.pdf)
+- **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink (2020). "Uncertainty in learning, choice and visual fixation". *Proceedings of the National Academy of Sciences*, 117 (6), 3291-3300. [[DOI: 10.1073/pnas.1911348117]](https://doi.org/10.1073/pnas.1911348117) [[PsyArXiv preprint]](https://psyarxiv.com/zuge2) [[data & code]](https://doi.org/10.17605/osf.io/539ps)  
 
-- Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer dynamics". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
+- Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (2), 171-184. [[DOI: 10.1007/s11166-019-09315-3]](https://doi.org/10.1007/s11166-019-09315-3)
 
 - **Hrvoje Stojic**, Eran Eldar, Hassan Bassam, Peter Dayan, & Raymond Dolan (2018). "Are you sure about that? On the origins of confidence in concept learning". In: Proceedings of the Cognitive Computational Neuroscience Conference. 1-4. [[pdf]](https://ccneuro.org/showDoc.php?s=W&pn=1197) 
 
