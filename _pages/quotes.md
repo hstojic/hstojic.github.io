@@ -7,9 +7,28 @@ navigation_weight: 4
 ---
 
 
-<!-- What comes first, experiment or the model? They bot co-evolve...
 
-Karl Popper -->
+> "Respect your own attempts to think."
+> 
+> -- Rich Sutton (Deep learning and reinforcement learning summer school 2019)
+
+From a very insightful career advice talk. This statement resonated with me. Scientists tend to be very critical of themselves, and I am not any different. We should take our thinking seriously, write it down regularly and give it time.
+
+
+> "We focus too much on methods and solutions, rather than on problems."
+> 
+> -- Sebastian Thrun
+
+In an interview on Lex Fridman's podcast Thrun that working on end-to-end problems might bring more progress in practice. Science kind of forces you to decompose a problem on subcomponents and focus on these, and we are rewarded for such work, but from time to time I would think that this makes it harder to see the big picture and how everything can fit together. Hence, I would agree, we should pick out important problems and work out solutions holistically.
+
+
+> "We wanted flying cars, instead we got 140 characters."
+> 
+> -- Peter Thiel 
+
+This speaks to the fact that innovation rate actually slowed down in recent decades, even though to an average consumer it doesn't seem that way. Most innovations these days are very small iterative improvements -- 
+just think about new smartphones that come out every year! However, more serious AI might change this situation. 
+
 
 > "Computers are useless. They provide only answers."
 > 

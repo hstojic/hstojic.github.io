@@ -6,10 +6,10 @@ permalink: /research/
 navigation_weight: 1
 ---
 
+<!-- 
+My research focuses on learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on machine learning methods. On empirical side, I usually conduct computational experiments, often collecting behavioural data to test the predictions and the models, usually by leveraging online labour markets like Amazon's Mechanical Turk. Since recently, I have also started collecting eye-tracking and neuroimaging data alongside the behavioral data. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence. -->
 
-My research focuses on learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on machine learning methods. On empirical side, I usually conduct computational experiments, often collecting behavioural data to test the predictions and the models, usually by leveraging online labour markets like Amazon's Mechanical Turk. Since recently, I have also started collecting eye-tracking and neuroimaging data alongside the behavioral data. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence.
-
-I'm an open science proponent. To contribute to reproducible science I strive to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I preregister my studies, to help reducing the rate of false positives that plagues science. 
+I'm an open science proponent. To contribute to reproducible science I strive to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I preregister my experiment-based studies, to help with reducing the rate of false positives that plagues science. 
 
 
 ### Academic profiles 
@@ -24,19 +24,20 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Review & Revision
 
+- Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic**. "The visual environment, attention and decision making" [no preprint available]
 
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
 
 ### 2013 - present
 
-- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis (in press). "Linear integration and lexicographic models of choice: A cue weight learning perspective". *Journal of Experimental Psychology: Learning, Memory, Cognition* [[PsyArXiv preprint]](https://psyarxiv.com/yj2zc) [[data & code]](https://doi.org/10.17605/osf.io/7yxrz) 
-
-- Oscar Esteban et al. (in press). "Analysis of task-based functional MRI data preprocessed with fMRIPrep". *Nature Protocols* [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)   
-
 - **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink (2020). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". *Journal of Experimental Psychology: General* [[DOI: 10.1037/xge0000749]](http://dx.doi.org/10.1037/xge0000749) [[PsyArXiv preprint]](https://psyarxiv.com/p6zev)  [[data & code]](https://doi.org/10.17605/osf.io/c8u9t)  
 
 - **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink (2020). "Uncertainty in learning, choice and visual fixation". *Proceedings of the National Academy of Sciences*, 117 (6), 3291-3300. [[DOI: 10.1073/pnas.1911348117]](https://doi.org/10.1073/pnas.1911348117) [[PsyArXiv preprint]](https://psyarxiv.com/zuge2) [[data & code]](https://doi.org/10.17605/osf.io/539ps)  
+
+- **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis (2020). "Linear integration and lexicographic models of choice: A cue weight learning perspective". *Journal of Experimental Psychology: Learning, Memory, Cognition* [[PsyArXiv preprint]](https://psyarxiv.com/yj2zc) [[data & code]](https://doi.org/10.17605/osf.io/7yxrz)  
+
+- Oscar Esteban et al. (202). "Analysis of task-based functional MRI data preprocessed with fMRIPrep". *Nature Protocols* [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)    
 
 - Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (2), 171-184. [[DOI: 10.1007/s11166-019-09315-3]](https://doi.org/10.1007/s11166-019-09315-3)
 

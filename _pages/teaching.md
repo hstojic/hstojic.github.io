@@ -12,11 +12,11 @@ Here I provide up to date description of teaching activities. Some courses have 
 
 ### Lecturer (2015-Present)
 
-#### Stochastic Models and Optimization
+#### [Stochastic Models and Optimization](https://github.com/hstojic/BGSE_ReinforcementLearning)
 
-- **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), jointly with [Gergely Neu](https://www.barcelonagse.eu/people/neu-gergely).  
-- **Description**: Not available yet.  
-- **Offerings**: 2019/2020.
+- **Info**: Barcelona Graduate School of Economics, [Master of Data Science](http://www.barcelonagse.eu/study/masters-programs/data-science), jointly with [Gergely Neu](https://www.barcelonagse.eu/people/neu-gergely), 20 hours.  
+- **Description**: The objective of this course is to introduce students to the main challenges and techniques of modern RL, particularly focusing on computational aspects of dealing with the dynamic nature of the RL problem, and on the statistical challenges posed by the uncertainty of the environment.  
+- **Offerings**: 2019/2020, 2020/2021.
 
 
 #### [Bayesian Optimization](https://github.com/hstojic/BGSE_BayesOptim)
