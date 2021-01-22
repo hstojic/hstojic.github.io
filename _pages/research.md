@@ -28,6 +28,8 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
+- Dimitrije Markovic, **Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel. "An empirical evaluation of active inference in multi-armed bandits". [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) 
+
 
 ### 2013 - present
 
@@ -37,7 +39,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis (2020). "Linear integration and lexicographic models of choice: A cue weight learning perspective". *Journal of Experimental Psychology: Learning, Memory, Cognition*, 46 (10), 1836-1856. [[PsyArXiv preprint]](https://psyarxiv.com/yj2zc) [[data & code]](https://doi.org/10.17605/osf.io/7yxrz)  
 
-- Oscar Esteban et al. (202). "Analysis of task-based functional MRI data preprocessed with fMRIPrep". *Nature Protocols* [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)    
+- Oscar Esteban et al. (2020). "Analysis of task-based functional MRI data preprocessed with fMRIPrep". *Nature Protocols* [[BioRXiv preprint, pdf]](https://www.biorxiv.org/content/10.1101/694364v1)    
 
 - Ranoua Bouchouicha, Lachlan Deer, Ashraf Eid, Peter McGee, Daniel Schoch, **Hrvoje Stojic**, Jolanda Ygosse-Battisti & Ferdinand M. Vieider (2019). "Gender Effects for Loss Aversion: Yes, No, Maybe?". *Journal of Risk and Uncertainty*, 59 (2), 171-184. [[DOI: 10.1007/s11166-019-09315-3]](https://doi.org/10.1007/s11166-019-09315-3)
 
