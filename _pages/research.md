@@ -24,18 +24,18 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Review & Revision
 
-- Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic**. "The visual environment, attention and decision making" [no preprint available]
+- Dimitrije Markovic, **Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel. "An empirical evaluation of active inference in multi-armed bandits". [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) 
 
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
-- Dimitrije Markovic, **Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel. "An empirical evaluation of active inference in multi-armed bandits". [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) 
+- Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic**. "The visual environment, attention and decision making" [no preprint available]
 
 
 ### 2013 - present
 
-- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink (2020). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". *Journal of Experimental Psychology: General*, 149 (10), 1878-1907.  [[DOI: 10.1037/xge0000749]](http://dx.doi.org/10.1037/xge0000749) [[PsyArXiv preprint]](https://psyarxiv.com/p6zev)  [[data & code]](https://doi.org/10.17605/osf.io/c8u9t)  
-
 - **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink (2020). "Uncertainty in learning, choice and visual fixation". *Proceedings of the National Academy of Sciences*, 117 (6), 3291-3300. [[DOI: 10.1073/pnas.1911348117]](https://doi.org/10.1073/pnas.1911348117) [[PsyArXiv preprint]](https://psyarxiv.com/zuge2) [[data & code]](https://doi.org/10.17605/osf.io/539ps)  
+
+- **Hrvoje Stojic**, Eric Schulz, Pantelis P. Analytis, & Maarten Speekenbrink (2020). "It's new, but is it good? How generalization and uncertainty guide the exploration of novel options". *Journal of Experimental Psychology: General*, 149 (10), 1878-1907.  [[DOI: 10.1037/xge0000749]](http://dx.doi.org/10.1037/xge0000749) [[PsyArXiv preprint]](https://psyarxiv.com/p6zev)  [[data & code]](https://doi.org/10.17605/osf.io/c8u9t)  
 
 - **Hrvoje Stojic**, Henrik Olsson, & Pantelis P. Analytis (2020). "Linear integration and lexicographic models of choice: A cue weight learning perspective". *Journal of Experimental Psychology: Learning, Memory, Cognition*, 46 (10), 1836-1856. [[PsyArXiv preprint]](https://psyarxiv.com/yj2zc) [[data & code]](https://doi.org/10.17605/osf.io/7yxrz)  
 
