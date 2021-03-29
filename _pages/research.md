@@ -12,8 +12,9 @@ My research focuses on learning and decision making. In particular, I've worked 
 I'm an open science proponent. To contribute to reproducible science I strive to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I preregister my experiment-based studies, to help with reducing the rate of false positives that plagues science. 
 
 
-### Academic profiles 
+### Research related profiles 
 
+- [[GitHub]](https://github.com/hstojic): Most of my code lives here, including research-related code
 - [[ORCID]](https://orcid.org/0000-0002-9699-9052): Unique researcher ID
 - [[Google Scholar]](https://scholar.google.co.uk/citations?user=wTjU3isAAAAJ&hl=en): Papers  
 - [[Publons]](https://publons.com/author/1175768/hrvoje-stojic#profile): Some of my reviews are listed here
