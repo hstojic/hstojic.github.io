@@ -17,7 +17,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 - [[ORCID]](https://orcid.org/0000-0002-9699-9052): Unique researcher ID
 - [[Google Scholar]](https://scholar.google.co.uk/citations?user=wTjU3isAAAAJ&hl=en): Papers  
 - [[Publons]](https://publons.com/author/1175768/hrvoje-stojic#profile): Some of my reviews are listed here
-- [[OSF]](https://osf.io/utrga/): I use it to make the files related to research projects publicly available (data, code, etc)   
+- [[OSF]](https://osf.io/utrga/): I use it to make the files related to some of my research projects publicly available (data, code, etc)   
 
 
 ## Papers
@@ -25,6 +25,8 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 ### Review & Revision
 
 - Dimitrije Markovic, **Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel. "An empirical evaluation of active inference in multi-armed bandits". [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) 
+
+- John A. McLeod, **Hrvoje Stojic**, Vincent Adam, Dongho Kim, Jordi Grau-Moya, Peter Vrancx & Felix Leibfried. "Bellman: A Toolbox for Model-based Reinforcement Learning in TensorFlow". [[arXiv preprint, pdf]](https://arxiv.org/abs/2103.14407) 
 
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
@@ -66,7 +68,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - **Hrvoje Stojic**, Michael R. Anreiter & Jose A.C. Martinez (2011). "An Experimental Test of the Dual Self Model". Unpublished MSc thesis, Barcelona Graduate School of Economics. [[pdf]](https://www.researchgate.net/profile/Hrvoje_Stojic/publication/281558709_An_Experimental_Test_of_the_Dual_Self_Model/links/55edeb7408aef559dc438458/An-Experimental-Test-of-the-Dual-Self-Model.pdf)
 
-
+<!-- 
 ### Work in progress
 
 
@@ -85,3 +87,4 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 - **Hrvoje Stojic**, Eran Eldar, Clelia Cornet, Peter Dayan, & Raymond Dolan. "Learning reward functions: multiple strategies for tackling multidimensional environments". 
 
 - Hassan Bassam, **Hrvoje Stojic**, Elliott Wimmer, & Raymond Dolan. "Effects of feedback delay on learning functions". 
+ -->
