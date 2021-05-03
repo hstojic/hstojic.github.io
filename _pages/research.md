@@ -31,8 +31,6 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
-- Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic**. "The visual environment, attention and decision making" [no preprint available]
-
 
 ### 2013 - present
 
