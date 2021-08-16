@@ -25,16 +25,16 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Review & Revision
 
-- Dimitrije Markovic, **Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel. "An empirical evaluation of active inference in multi-armed bandits". [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) 
-
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
 
 ### 2013 - present
 
+- \*Dimitrije Markovic, **\*Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel (accepted). "An empirical evaluation of active inference in multi-armed bandits" *Neural Networks* (\* equal contribution). [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) [[data & code]](https://osf.io/85ek4) 
+
 - Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic** (accepted). "The visual environment, attention and decision making" *Psychological Bulletin* [no preprint available]
 
-- John A. McLeod, **Hrvoje Stojic**, Vincent Adam, Dongho Kim, Jordi Grau-Moya, Peter Vrancx & Felix Leibfried. "Bellman: A Toolbox for Model-based Reinforcement Learning in TensorFlow". [[arXiv preprint, pdf]](https://arxiv.org/abs/2103.14407) [[Bellman]](https://bellman.dev) 
+- John A. McLeod, **Hrvoje Stojic**, Vincent Adam, Dongho Kim, Jordi Grau-Moya, Peter Vrancx & Felix Leibfried. "Bellman: A Toolbox for Model-based Reinforcement Learning in TensorFlow". [[arXiv, pdf]](https://arxiv.org/abs/2103.14407) [[Bellman]](https://bellman.dev) 
 
 - **Hrvoje Stojic**, Jacob Orquin, Peter Dayan, Raymond Dolan, & Maarten Speekenbrink (2020). "Uncertainty in learning, choice and visual fixation". *Proceedings of the National Academy of Sciences*, 117 (6), 3291-3300. [[DOI: 10.1073/pnas.1911348117]](https://doi.org/10.1073/pnas.1911348117) [[PsyArXiv preprint]](https://psyarxiv.com/zuge2) [[data & code]](https://doi.org/10.17605/osf.io/539ps)  
 
