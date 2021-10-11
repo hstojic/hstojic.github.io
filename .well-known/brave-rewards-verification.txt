@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: hstojic.re
+Token: 5c18f58f75e7f93880b44e5b79b449e5d085f32ee582b72ed9478f0bf820c421
