@@ -25,6 +25,10 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Review & Revision
 
+- Pantelis P. Analytis, Francesco Cerigioni, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Sequential Choice and Self-Reinforcing Ranking". [[BSE Working Paper, pdf]](https://francescocerigioni.weebly.com/uploads/5/5/1/9/55191825/sequential_choice_and_self_reinforcing_ranking_02-10-22.pdf)  
+
+- Martin Schoemann, Sonja Perkovic, **Hrvoje Stojic**, Peter Todd, N.M. Larsen, Raymond Dolan, Jacob L. Orquin. "Consumer search as foraging". [preprint not available]
+
 - Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
 
