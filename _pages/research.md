@@ -25,7 +25,7 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### Review & Revision
 
-- Pantelis P. Analytis, Francesco Cerigioni, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Sequential Choice and Self-Reinforcing Ranking". [[BSE Working Paper, pdf]](https://francescocerigioni.weebly.com/uploads/5/5/1/9/55191825/sequential_choice_and_self_reinforcing_ranking_02-10-22.pdf)  
+- Pantelis P. Analytis, Francesco Cerigioni, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Sequential Choice and Self-Reinforcing Ranking". [[BSE Working Paper 1318, pdf]](https://bse.eu/research/working-papers/sequential-choice-and-self-reinforcing-rankings-0)  
 
 - Martin Schoemann, Sonja Perkovic, **Hrvoje Stojic**, Peter Todd, N.M. Larsen, Raymond Dolan, Jacob L. Orquin. "Consumer search as foraging". [preprint not available]
 
@@ -34,9 +34,9 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 ### 2013 - present
 
-- \*Dimitrije Markovic, **\*Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel (accepted). "An empirical evaluation of active inference in multi-armed bandits" *Neural Networks* (\* equal contribution). [[arXiv preprint, pdf]](https://arxiv.org/abs/2101.08699) [[data & code]](https://osf.io/85ek4) 
+- \*Dimitrije Markovic, **\*Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel (2021). "An empirical evaluation of active inference in multi-armed bandits" *Neural Networks* , 144, 229-246. (\* equal contribution). [[DOI:10.1016/j.neunet.2021.08.018, pdf]](https://doi.org/10.1016/j.neunet.2021.08.018) [[data & code]](https://osf.io/85ek4) 
 
-- Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic** (accepted). "The visual environment, attention and decision making" *Psychological Bulletin* [no preprint available]
+- Jacob L. Orquin, Erik S. Lahm & **Hrvoje Stojic** (2021). "The visual environment, attention and decision making" *Psychological Bulletin*, 147 (6), 597-617. [[DOI:10.1037/bul0000328, pdf]](http://dx.doi.org/10.1037/bul0000328)
 
 - John A. McLeod, **Hrvoje Stojic**, Vincent Adam, Dongho Kim, Jordi Grau-Moya, Peter Vrancx & Felix Leibfried. "Bellman: A Toolbox for Model-based Reinforcement Learning in TensorFlow". [[arXiv, pdf]](https://arxiv.org/abs/2103.14407) [[Bellman]](https://bellman.dev) 
 

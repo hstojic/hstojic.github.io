@@ -20,9 +20,9 @@ Check my [research]({% link _pages/research.md %}) section for publications, cod
 
 Finally, you can also find me at:
 
+- [GitHub](https://github.com/hstojic) 
 - [Twitter](https://twitter.com/HrvojeStojic)   
 - [LinkedIn](https://www.linkedin.com/in/hrvoje-stojic-19b7071/) 
-- [GitHub](https://github.com/hstojic) 
 
 <!-- 
 ## Bio
