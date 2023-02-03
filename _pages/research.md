@@ -6,10 +6,7 @@ permalink: /research/
 navigation_weight: 1
 ---
 
-<!-- 
-My research focuses on learning and decision making. In particular, I've worked on integrating function learning with decision making and strategy selection problem, popularly called a "deciding how to decide" problem. On theoretical side, I often approach these topics from a reinforcement learning perspective and rely a lot on machine learning methods. On empirical side, I usually conduct computational experiments, often collecting behavioural data to test the predictions and the models, usually by leveraging online labour markets like Amazon's Mechanical Turk. Since recently, I have also started collecting eye-tracking and neuroimaging data alongside the behavioral data. I'm quite excited to be in this area of research. It's a truly interdisciplinary topic, and significant developments are happening all over the place -- from economics and psychology, over biology and neuroscience, to machine learning and artificial intelligence. -->
-
-I'm an open science proponent. To contribute to reproducible science I strive to make all the research output publicly available, from the data to the code used for modelling and analysis. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data - I have signed the [Peer Reviewers' Openness Initiative](https://opennessinitiative.org/). Whenever possible, I preregister my experiment-based studies, to help with reducing the rate of false positives that plagues science. 
+I'm an open science proponent. To contribute to reproducible science I strive to make **all** the research output publicly available. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data. 
 
 
 ### Research related profiles 
@@ -29,10 +26,10 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - Martin Schoemann, Sonja Perkovic, **Hrvoje Stojic**, Peter Todd, N.M. Larsen, Raymond Dolan, Jacob L. Orquin. "Consumer search as foraging". [preprint not available]
 
-- Pantelis P. Analytis, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Ranking-based rich-get-richer processes". [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066) 
 
+### Articles
 
-### 2013 - present
+- Alexandros Gelastopoulos, Pantelis P. Analytis & **Hrvoje Stojic**. (Accepted/In press). "Ranking-based rich-get-richer processes". *Annals of Applied Probability*. [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066)
 
 - \*Dimitrije Markovic, **\*Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel (2021). "An empirical evaluation of active inference in multi-armed bandits" *Neural Networks* , 144, 229-246. (\* equal contribution). [[DOI:10.1016/j.neunet.2021.08.018, pdf]](https://doi.org/10.1016/j.neunet.2021.08.018) [[data & code]](https://osf.io/85ek4) 
 
