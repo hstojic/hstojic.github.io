@@ -6,30 +6,44 @@ permalink: /research/
 navigation_weight: 1
 ---
 
-I'm an open science proponent. To contribute to reproducible science I strive to make **all** the research output publicly available. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data. 
+I'm an open science proponent. To contribute to reproducible science I strive to make as much of the research output publicly available. I'm trying to spread these practices more widely as a reviewer, by asking authors to publish the code and the data. 
 
 
 ### Research related profiles 
 
 - [[GitHub]](https://github.com/hstojic): Most of my code lives here, including research-related code
 - [[ORCID]](https://orcid.org/0000-0002-9699-9052): Unique researcher ID
-- [[Google Scholar]](https://scholar.google.co.uk/citations?user=wTjU3isAAAAJ&hl=en): Papers  
+- [[Google Scholar]](https://scholar.google.co.uk/citations?user=wTjU3isAAAAJ&hl=en): As it says on the tin
 - [[Publons]](https://publons.com/author/1175768/hrvoje-stojic#profile): Some of my reviews are listed here
-- [[OSF]](https://osf.io/utrga/): I use it to make the files related to some of my research projects publicly available (data, code, etc)   
+- [[OSF]](https://osf.io/utrga/): I used it to make the files related to some of my cognitive science research projects publicly available (data, code, etc)   
 
 
-## Papers
+<!-- ## Papers -->
 
-### Review & Revision
+### Work in Progress
+
+- **Hrvoje Stojic**, Alan Saul, William Cowley & Sebastian Popescu "High throughput Bayesian optimisation with uncertainty aware deep neural networks"
+
+- **Hrvoje Stojic**, Alessandro Vullo, William Cowley, Henry B. Moss & Victor Picheny "Scalable multi-output active learning for level-set estimation"
+
+- **Hrvoje Stojic** & Victor Picheny "Scaling multi-objective Bayesian optimization to very large batches"
+
+
+<!-- ### Review & Revision -->
+
+### Out and about
+
+- Victor Picheny, Joel Berkley, Henry B. Moss, **Hrvoje Stojic** et al. "Trieste: Efficiently Exploring The Depths of Black-box Functions with TensorFlow". [[arXiv, pdf]](https://arxiv.org/abs/2302.08436)  
 
 - Pantelis P. Analytis, Francesco Cerigioni, Alexandros Gelastopoulos & **Hrvoje Stojic**. "Sequential Choice and Self-Reinforcing Ranking". [[BSE Working Paper 1318, pdf]](https://bse.eu/research/working-papers/sequential-choice-and-self-reinforcing-rankings-0)  
 
+<!-- 
 - Martin Schoemann, Sonja Perkovic, **Hrvoje Stojic**, Peter Todd, N.M. Larsen, Raymond Dolan, Jacob L. Orquin. "Consumer search as foraging". [preprint not available]
+ -->
 
+<!-- ### Articles -->
 
-### Articles
-
-- Alexandros Gelastopoulos, Pantelis P. Analytis & **Hrvoje Stojic**. (Accepted/In press). "Ranking-based rich-get-richer processes". *Annals of Applied Probability*. [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066)
+- Alexandros Gelastopoulos, Pantelis P. Analytis & **Hrvoje Stojic**. (In press). "Ranking-based rich-get-richer processes". *Annals of Applied Probability*. [[arXiv preprint, pdf]](https://arxiv.org/abs/1910.01066)
 
 - \*Dimitrije Markovic, **\*Hrvoje Stojic**, Sarah Schwoebel, & Stefan J. Kiebel (2021). "An empirical evaluation of active inference in multi-armed bandits" *Neural Networks* , 144, 229-246. (\* equal contribution). [[DOI:10.1016/j.neunet.2021.08.018, pdf]](https://doi.org/10.1016/j.neunet.2021.08.018) [[data & code]](https://osf.io/85ek4) 
 
@@ -53,10 +67,10 @@ I'm an open science proponent. To contribute to reproducible science I strive to
 
 - **Hrvoje Stojic** (2017). "[Re] How learning can guide evolution". ReScience, 3 (1). DOI: [10.5281/zenodo.890884](https://zenodo.org/record/890884) [[pdf]](https://github.com/ReScience-Archives/Stojic-2017/raw/master/article/Stojic-2017.pdf) [[code]](https://github.com/hstojic/HintonNowlan1987_replication)
 
-- **Hrvoje Stojic**, Henrik Olsson & Maarten Speekenbrink (2016). "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)  
-
+<!-- - **Hrvoje Stojic**, Henrik Olsson & Maarten Speekenbrink (2016). "Not everything looks like a nail: Learning to select appropriate decision strategies in multiple environments". [[PsyArXiv preprint, pdf]](https://psyarxiv.com/fma3p/download)   -->
+<!-- 
 - **Hrvoje Stojic**, Henrik Olsson and Pantelis P. Analytis (2016) “Explaining inter-individual variability in strategy selection: A cue weight learning approach”. In: Proceedings of the 14th International Conference on Cognitive Modeling. (Honorable mention at ICCM). University Park, PA: Penn State, pp. 144-150. [[pdf]](http://acs.ist.psu.edu/iccm2016/proceedings/stojic2016iccm.pdf) [[data]](https://dx.doi.org/10.6084/m9.figshare.1609680)
-
+ -->
 - **Hrvoje Stojic**, Pantelis P. Analytis & Maarten Speekenbrink (2015). "Human behavior in contextual multi-armed bandit problems". In: Proceedings of the 37th Annual Conference of the Cognitive Science Society. Austin, TX, US: Cognitive Science Society, 2290-2295. [[pdf]](https://mindmodeling.org/cogsci2015/papers/0394/paper0394.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.1314099)
 
 - Pantelis P. Analytis, **Hrvoje Stojic**, Alexandros Gelastopoulos, and Mehdi Moussaid (2015). "The collective dynamics of sequential search in markets for cultural products". Santa Fe Institute Discussion Paper, 15-06-023. [[pdf]](http://www.santafe.edu/media/workingpapers/15-06-023.pdf) 

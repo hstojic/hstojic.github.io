@@ -9,20 +9,20 @@ permalink: /
 
 Welcome to my personal website! 
 
-I'm a Research Scientist at [Secondmind (previously known as Prowler.io)](https://www.secondmind.ai/). My mission is to improve our understanding of intelligence. In my research I focus on decision making, learning and generalization - in my opinion key faculties of intelligent agents, both human and artificial.
+I'm a decision making researcher, equipped with love for learning and growth, and a near-limitless dose of optimism. I am passionate about making an impact on human condition by applying advanced decision making methods to tackle challenging real-world problems.
 
-I obtained a PhD in Economics from [Pompeu Fabra University](https://www.upf.edu/web/econ), where, under supervision of [Prof. Robin M. Hogarth](http://www.econ.upf.edu/~hogarth/Robin_M._Hogarth/Home.html), I worked on understanding human learning and decision-making, using probabilistic modelling and reinforcement learning. After that I moved to [University College London](https://www.fil.ion.ucl.ac.uk/) where under supervision of Prof. Ray Dolan and Prof. Peter Dayan I studied human generalisation and function learning, and probed interactions between learning, choice and attention processes. Currently, at [Secondmind](https://www.secondmind.ai/), I'm developing new Bayesian optimization and model-based reinforcement learning algorithms, implementing them in our open-source toolboxes ([Trieste](https://github.com/secondmind-labs/trieste)) and [Bellman](https://github.com/Bellman-devs/bellman), and applying them to real-world problems.
-
-Check my [research]({% link _pages/research.md %}) section for publications, code and other details on my research projects. In [teaching]({% link _pages/teaching.md %}) section you can find overview of my teaching, links to materials and other goodies.  
+Currently I'm a Research Scientist at [Secondmind](https://www.secondmind.ai/) (previously known as Prowler.io), mostly working on improving efficiency of industrial production processes through a liberal application of Bayesian optimization and Active learning methods. Check our open-source toolbox [Trieste](https://github.com/secondmind-labs/trieste), a research-friendly and production-ready TensorFlow-backed framework for Bayesian optimization, that I'm helping build and maintain.
+ 
+I obtained a PhD in Economics from [Pompeu Fabra University](https://www.upf.edu/web/econ), where, under supervision of [Prof. Robin M. Hogarth](http://www.econ.upf.edu/~hogarth/Robin_M._Hogarth/Home.html), I worked on understanding human learning and decision-making, using probabilistic modelling and reinforcement learning methods. After that I moved to [University College London](https://www.fil.ion.ucl.ac.uk/) where under supervision of Prof. Ray Dolan and Prof. Peter Dayan I studied human generalisation and function learning, and probed interactions between learning, choice and attention processes, again through the lens of probabilistic models and reinforcement learning.
 
 <!-- This is my personal website. I am experimenting with the blog for keeping notes about ideas, research, and sharing my excitement with science. I haven't used it much so far, but I hope you will find useful what is there. 
  -->
 
-Finally, you can also find me at:
+You can also find me:
 
-- [GitHub](https://github.com/hstojic) 
-- [Twitter](https://twitter.com/HrvojeStojic)   
-- [LinkedIn](https://www.linkedin.com/in/hrvoje-stojic-19b7071/) 
+- on [GitHub](https://github.com/hstojic) if you are interested in code behind some of my projects,
+- on [Twitter](https://twitter.com/HrvojeStojic) if you are keen to learn about my opinions (though I'm exploring [Nostr](https://github.com/nostr-protocol/nostr) these days),
+- on obligatory [LinkedIn](https://www.linkedin.com/in/hrvoje-stojic-19b7071/) 
 
 
 ## This site
